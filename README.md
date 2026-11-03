@@ -211,19 +211,11 @@ All shared colours, gradients and reusable glow-shadow helpers live in [`lib/con
 
 ## 📸 Screenshots
 
-<!--
-Add your screenshots to docs/screenshots/ and uncomment the table below.
-
 <div align="center">
 
-| 🏠 Home | 🎲 Matchmaking | ♟️ Game |
-|:-------:|:--------------:|:-------:|
-| <img src="docs/screenshots/home.png" width="240" /> | <img src="docs/screenshots/matchmaking.png" width="240" /> | <img src="docs/screenshots/game.png" width="240" /> |
+<img src="assets/chess_setup.gif" alt="Chess Concept app demo" width="300" />
 
 </div>
--->
-
-<div align="center"><i>📷 Screenshots coming soon.</i></div>
 
 <br/>
 
