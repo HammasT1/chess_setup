@@ -22,6 +22,7 @@
 <br/>
 
 [**✨ Overview**](#-overview) &nbsp;•&nbsp;
+[**🎬 App Preview**](#-app-preview) &nbsp;•&nbsp;
 [**🖼️ Screens**](#️-screens) &nbsp;•&nbsp;
 [**🎯 Features**](#-features) &nbsp;•&nbsp;
 [**📁 Structure**](#-project-structure) &nbsp;•&nbsp;
@@ -55,6 +56,16 @@
 
 > [!NOTE]
 > This is a UI/UX concept, not a functional chess engine. There is no move validation and no multiplayer backend. It was built for design and animation practice.
+
+<br/>
+
+## 🎬 App Preview
+
+<div align="center">
+
+<img src="assets/chess_setup.gif" alt="Chess Concept app demo" width="300" />
+
+</div>
 
 <br/>
 
@@ -206,16 +217,6 @@ All shared colours, gradients and reusable glow-shadow helpers live in [`lib/con
 |:--|:--|
 | **Primary gradient** | `primaryPurple → vsPink`, top-left → bottom-right |
 | **Font** | Poppins (via `google_fonts`) |
-
-<br/>
-
-## 📸 Screenshots
-
-<div align="center">
-
-<img src="assets/chess_setup.gif" alt="Chess Concept app demo" width="300" />
-
-</div>
 
 <br/>
 
